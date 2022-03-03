@@ -39,6 +39,7 @@ execute_script "Rectangle"
 execute_script "vscode"
 execute_script "powerline"
 execute_script "terminal"
+execute_script "nodenv"
 
 ####################
 ## Finished!!
