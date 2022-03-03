@@ -33,8 +33,6 @@ rm $HOME/.zshrc
 ln -sf $(pwd)/.zshrc $HOME/.zshrc
 
 execute_script "homebrew"
-execute_script "nodebrew"
-execute_script "node_lts"
 execute_script "Rectangle"
 execute_script "vscode"
 execute_script "powerline"
