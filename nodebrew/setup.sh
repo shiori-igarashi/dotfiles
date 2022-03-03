@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if (nodebrew -v >/dev/null 2>&1); then
+if !(nodebrew -v >/dev/null 2>&1); then
   brew install nodebrew
   nodebrew setup
 
