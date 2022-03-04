@@ -38,6 +38,7 @@ execute_script "vscode"
 execute_script "powerline"
 execute_script "terminal"
 execute_script "nodenv"
+execute_script "aws"
 
 ####################
 ## Finished!!
