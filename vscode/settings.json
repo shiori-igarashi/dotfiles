@@ -11,5 +11,6 @@
   "window.zoomLevel": 1,
   "[shellscript]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
-  }
+  },
+  "vsnotes.defaultNotePath": "~/Documents/memo"
 }
